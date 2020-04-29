@@ -7,3 +7,7 @@
 ###### icon
 
 * [阿里妈妈图标](https://www.iconfont.cn/)
+
+###### Others
+
+* [The Twelve-Factor App](https://12factor.net/)
